@@ -59,7 +59,7 @@ const Resume: React.FC = () => {
   return (
     <section
       id="resume"
-      className="min-h-screen py-20 bg-white dark:bg-gray-900 scroll-snap-section"
+      className="min-h-screen py-20 bg-white dark:bg-gray-900 scroll-snap-section pt-20"
     >
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
